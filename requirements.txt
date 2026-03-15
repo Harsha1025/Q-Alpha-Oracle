@@ -1,10 +1,10 @@
 streamlit
 yfinance
-pandas<3
+pandas
 numpy
 torch
 joblib
 plotly
-pandas_ta
+pandas-ta==0.4.71b0
 pennylane
 scikit-learn
